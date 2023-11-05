@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#logo{
+    height: 80px;
+    width: 90px;
+}
+
+.nav{
+    float: right;
+    margin-right: 10%;
+    margin-top:1%;
+}
+.nav a{
+    text-decoration: none;
+    color:beige;
+    padding: 5px;
+    border: 1px solid white;
+    margin-right: 30px;
+}
+.nav a:hover{
+    background-color: teal;
+    color: black;
+}
+#img{
+    width: 100%;
+    margin-right: 0%;
+}

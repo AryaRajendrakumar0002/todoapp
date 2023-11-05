@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#search{
+    height: 50px;
+    
+}
+
+body{
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+form{
+    background-color: rgba(255, 255, 255, 0.44);
+    border: 2px solid green ;
+    margin-left: 20%;
+    margin-top: 10%;
+    margin-right: 20%;
+    margin-bottom: 10%;
+    padding: 3%;
+    color:black;
+    text-decoration: double;
+
+
+}
+.form label{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
